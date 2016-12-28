@@ -3,6 +3,9 @@
   "version": "1.0.1",
   "description": "模版项目管理工具",
   "main": "index.js",
+  "bin":{
+    "nodemode_create":"./index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

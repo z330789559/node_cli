@@ -1,0 +1,4 @@
+#!/usr/bin/env node
+
+var nodecreate=require(".../index.js")
+nodecreate.create_node();
