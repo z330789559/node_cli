@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/z330789559/nodeProject.git"
+    "url": "git+https://github.com/z330789559/node_cli.git"
   },
   "author": "李保忠",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/z330789559/nodeProject/issues"
+    "url": "https://github.com/z330789559/node_cli/issues"
   },
-  "homepage": "https://github.com/z330789559/nodeProject#readme"
+  "homepage": "https://github.com/z330789559/node_cli#readme"
 }
