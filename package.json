@@ -1,10 +1,10 @@
 {
   "name": "nodemode-cli",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "模版项目管理工具",
   "main": "index.js",
   "bin":{
-    "nodemode_create":"./bin/create_node.js"
+    "nodemode":"./bin/create_node.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
