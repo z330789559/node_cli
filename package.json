@@ -1,0 +1,19 @@
+{
+  "name": "nodemode-cli",
+  "version": "1.0.0",
+  "description": "模版项目管理工具",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/z330789559/nodeProject.git"
+  },
+  "author": "李保忠",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/z330789559/nodeProject/issues"
+  },
+  "homepage": "https://github.com/z330789559/nodeProject#readme"
+}
