@@ -11,6 +11,6 @@
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectPlainTextFileTypeManager">
-    <file url="file://$PROJECT_DIR$/bin/nodemode_create" />
+    <file url="file://$PROJECT_DIR$/bin/nodemode_create.js" />
   </component>
 </project>
